@@ -124,11 +124,12 @@ Jovem talento de 22 anos, formado em análise e desenvolvimento de sistemas, com
 
 ### 📊 Estatísticas
 
-<p>
+<p width="1000">
   <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
+    width="400"
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Leonardo-datior&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
