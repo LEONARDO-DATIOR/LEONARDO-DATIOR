@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Jovem talento de 22 anos, formado em análise e desenvolvimento de sistemas, com mais de três anos de experiência profissional na área de tecnologia. Desenvolvedor de software com uma sólida base, atualmente ocupa o cargo de analista de infraestrutura na Localiza, pela DXC. Um profissional dinâmico e apaixonado, com comprovada capacidade de resolver problemas complexos e um forte desejo de aprender e crescer no mundo da tecnologia. Sua experiência abrange desde o desenvolvimento de software até a gestão de infraestruturas, oferecendo uma perspectiva completa e versátil. Com uma sólida base teórica e vasta
+Tenho 21 anos, sou formado em Análise e Desenvolvimento de Sistemas pela Newton Paiva e já atuei em vários projetos de desenvolvimento web, principalmente no front-end. Gosto muito de criar interfaces bonitas e práticas, sempre pensando em quem vai usar. Estou sempre em busca de aprender mais, crescer na área e participar de projetos que realmente façam a diferença.
 
 <br></br>
 
