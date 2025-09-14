@@ -9,7 +9,7 @@ Tenho 21 anos, sou formado em Análise e Desenvolvimento de Sistemas pela Newton
 
 <p align="center">
     <!-- YOUTUBE -->
-    <a href="https://www.youtube.com/@datior.leonardo">
+    <a href="https://www.youtube.com/@duca_leonardo">
         <img 
             alt="Seguir no youtube" 
             title="Inscreva-se no meu canal" 
