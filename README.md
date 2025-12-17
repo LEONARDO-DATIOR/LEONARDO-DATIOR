@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Tenho 21 anos, sou formado em Análise e Desenvolvimento de Sistemas pela Newton Paiva e já atuei em vários projetos de desenvolvimento web, principalmente no front-end. Gosto muito de criar interfaces bonitas e práticas, sempre pensando em quem vai usar. Estou sempre em busca de aprender mais, crescer na área e participar de projetos que realmente façam a diferença.
+Tenho 22 anos, sou formado em Análise e Desenvolvimento de Sistemas pela Newton Paiva e já atuei em vários projetos de desenvolvimento web, principalmente no front-end. Gosto muito de criar interfaces bonitas e práticas, sempre pensando em quem vai usar. Estou sempre em busca de aprender mais, crescer na área e participar de projetos que realmente façam a diferença.
 
 <br></br>
 
