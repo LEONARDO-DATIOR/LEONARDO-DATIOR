@@ -10,25 +10,6 @@ Acredito que o software de alta performance nasce do equilíbrio entre um códig
 <br></br>
 
 
-<!-- <p align="center">
-    <!-- YOUTUBE -->
-    <!-- <a href="https://www.youtube.com/@duca_leonardo">
-        <img 
-            alt="Seguir no youtube" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCBMURnkuHrY_VBQ1H2rE69A?color=8c8c8c&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=8c8c8c"
-        />
-    </a> -->
-    <a href="https://www.youtube.com/@datior.leonardo">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCBMURnkuHrY_VBQ1H2rE69A?color=8c8c8c&logo=eye&logoColor=white&style=for-the-badge&labelColor=8c8c8c"
-        />
-    </a> 
-<!-- </p> -->
-
-
 --- 
 
 <!-- <P>.</P> -->
@@ -39,7 +20,7 @@ Acredito que o software de alta performance nasce do equilíbrio entre um códig
   align="center"
   gap="80"
 >
- <h3>🤖Tecnologias que tenho conhecimento🤖</h3> 
+ <h3>🤖Algumas Tecnologias que utilizo🤖</h3> 
   
 <div gap="50">
     <img 
