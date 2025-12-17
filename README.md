@@ -2,20 +2,23 @@
 
 **`Desenvolvedor FullStack`**
 
-Tenho 22 anos, sou formado em Análise e Desenvolvimento de Sistemas pela Newton Paiva e já atuei em vários projetos de desenvolvimento web, principalmente no front-end. Gosto muito de criar interfaces bonitas e práticas, sempre pensando em quem vai usar. Estou sempre em busca de aprender mais, crescer na área e participar de projetos que realmente façam a diferença.
+Olá! Sou o Leonardo Duca, um profissional apaixonado por tecnologia em transição para o Desenvolvimento Full-Stack.
+Tenho 22 anos, sou formado em Análise e Desenvolvimento de Sistemas e possuo experiência prática em projetos de desenvolvimento Web e Infraestrutura. Essa bagagem híbrida me permite construir aplicações que não são apenas funcionais, mas também escaláveis e bem documentadas.
+
+Acredito que o software de alta performance nasce do equilíbrio entre um código limpo e uma arquitetura bem planejada. Atualmente, foco em unir meu conhecimento tanto de back-end e front-end quanto de cloud e metodológia ágil.
 
 <br></br>
 
 
-<p align="center">
+<!-- <p align="center">
     <!-- YOUTUBE -->
-    <a href="https://www.youtube.com/@duca_leonardo">
+    <!-- <a href="https://www.youtube.com/@duca_leonardo">
         <img 
             alt="Seguir no youtube" 
             title="Inscreva-se no meu canal" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCBMURnkuHrY_VBQ1H2rE69A?color=8c8c8c&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=8c8c8c"
         />
-    </a>
+    </a> -->
     <a href="https://www.youtube.com/@datior.leonardo">
         <img 
             alt="youtube views" 
@@ -23,12 +26,12 @@ Tenho 22 anos, sou formado em Análise e Desenvolvimento de Sistemas pela Newton
             src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCBMURnkuHrY_VBQ1H2rE69A?color=8c8c8c&logo=eye&logoColor=white&style=for-the-badge&labelColor=8c8c8c"
         />
     </a> 
-</p>
+<!-- </p> -->
 
 
 --- 
 
-<P>.</P>
+<!-- <P>.</P> -->
 
 
 <div 
